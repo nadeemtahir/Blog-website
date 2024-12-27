@@ -13,7 +13,7 @@ function AuthorCard() {
           className="rounded-full mr-4 object-cover border-2 border-red-500"
         />
         <div>
-          <h3 className="text-xl font-bold">Manahil Nadeeem</h3>
+          <h3 className="text-xl font-bold">Manahil Nadeem</h3>
           <p className="text-slate-500">Frontend Developer</p>
         </div>
       </div>
